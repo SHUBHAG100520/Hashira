@@ -1,4 +1,4 @@
-text
+
 # Polynomial Secret Solver
 
 This project reads polynomial root data from a JSON file where the y-values are encoded in various numerical bases. It decodes these values, uses quadratic or higher-degree Lagrange interpolation to reconstruct the polynomial, and solves for the constant term \( c \) in the polynomial equation.
